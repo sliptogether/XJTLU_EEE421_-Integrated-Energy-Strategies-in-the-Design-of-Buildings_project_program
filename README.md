@@ -30,7 +30,4 @@ KNN预测图
 PSO优化图  
 ![PSO](https://github.com/sliptogether/XJTLU_EEE421_-Integrated-Energy-Strategies-in-the-Design-of-Buildings_project_program/assets/59787823/ccac8ba2-5250-44f7-8b10-f667a89599d9)  
 
-If you have any questions, feel free to add my WeChat: z9120803
 
-
-有疑异议可以添加我的微信:z9120803
